@@ -1,2 +1,2 @@
-# trabalho-fds
-grupo do github para o trabalho de fundamentos de desenvolvimento de software 
+# Site venda de peças de computador
+Site onde você pode comprar e vender peças de computador 
